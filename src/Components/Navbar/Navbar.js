@@ -20,6 +20,9 @@ const Navbar = () => {
           <a href="../Landing_Page/LandingPage.html">Home</a>
         </li>
         <li className="link">
+          <a href="#">Appointments</a>
+        </li>
+        <li className="link">
           <a href="../Sign_Up//Sign_Up.html">
             <button className="btn1">Sign Up</button>
           </a>
